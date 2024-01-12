@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.0 (Python 3.8.2 on darwin)" generated="2024-01-12T23:46:37.271575" rpa="false" schemaversion="5">
+<suite id="s1" name="Basliklar" source="/Users/sametari/Desktop/Python/RF/Basliklar.robot">
+<test id="s1-t1" name="Bu benim ilk testim" line="7">
+<kw name="Log To Console" owner="BuiltIn">
+<arg>bu benim ilk robotframework mesajim</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2024-01-12T23:46:37.429241" elapsed="0.003335"/>
+</kw>
+<kw name="Log To Console" owner="BuiltIn">
+<arg>hello world</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" start="2024-01-12T23:46:37.434851" elapsed="0.001668"/>
+</kw>
+<status status="PASS" start="2024-01-12T23:46:37.423151" elapsed="0.015812"/>
+</test>
+<status status="PASS" start="2024-01-12T23:46:37.289048" elapsed="0.153688"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Basliklar">Basliklar</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
